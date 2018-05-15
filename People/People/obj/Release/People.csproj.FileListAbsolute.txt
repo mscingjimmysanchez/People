@@ -1,0 +1,10 @@
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Release\People.csprojAssemblyReference.cache
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Release\Main.Main.resources
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Release\People.csproj.GenerateResource.cache
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Release\People.csproj.CoreCompileInputs.cache
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\bin\Release\People.exe.config
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\bin\Release\People.exe
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\bin\Release\People.pdb
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Release\People.Properties.Resources.resources
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Release\People.exe
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Release\People.pdb

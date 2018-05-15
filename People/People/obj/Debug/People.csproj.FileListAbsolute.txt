@@ -1,0 +1,9 @@
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\bin\Debug\People.exe.config
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\bin\Debug\People.exe
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\bin\Debug\People.pdb
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Debug\Main.Main.resources
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Debug\People.Properties.Resources.resources
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Debug\People.csproj.GenerateResource.cache
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Debug\People.exe
+C:\Users\M.Sc. Jimmy Sánchez\Documents\Deejay\People\People\obj\Debug\People.pdb
